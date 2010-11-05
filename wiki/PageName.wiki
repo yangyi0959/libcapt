@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#How to generate a captcha image with libcapt.
 
 = How to generate a captcha image with libcapt. =
   You can find a helloworld sample at "examples" fold
