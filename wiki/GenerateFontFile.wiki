@@ -21,7 +21,7 @@
 
 = Test font file =
   # run captUtil and click "Test" tab
-  # click "LoadFont" to load cpf file
+  # click "Load Font" to load cpf file
   # then click random to display captcha image and four answer to select
   # try it!
 
