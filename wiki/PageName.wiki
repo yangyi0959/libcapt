@@ -1,5 +1,4 @@
 #summary How to generate a captcha image with libcapt.
-#labels helloworld
 
 = How to generate a captcha image with libcapt. =
   You can find a helloworld sample at "examples" fold
