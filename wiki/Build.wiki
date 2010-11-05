@@ -1,0 +1,21 @@
+#summary Build libcapt
+
+= Build libcapt at windows =
+
+ # you can find visual c++ solution file at "builds/win32" fold, like "vc2005"
+ # just open and build it,it is simple!
+ # the execute file of captUtil and sample is build in "bin" fold
+
+= Build libcapt at linux =
+ # make file for linux like system is put in "builds/linux" fold.
+ # type "make" to build libcapt.a and captGen
+
+= HelloWorld =
+ # try "captGen" fist, this program can generate a captcha image with tga format
+ # run captGen at console mode at either windows or linux system
+   {{{
+   captGen letters.cpf captcha.tga
+   }}}
+ # you can find letters.cpf file at "examples" fold, It's a simple cpf file include 26 letters
+ # open "captcha.tga"
+  [http://www.thecodeway.com/files/libcapt_demo1.gif]
